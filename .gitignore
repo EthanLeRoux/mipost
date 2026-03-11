@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Visual Studio files
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+appsettings.Development.json
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Temporary files
+*.tmp
+*.temp
